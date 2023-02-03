@@ -44,7 +44,7 @@
   ## Step 5. Presentation to stakeholders
   
   
-  Total Presentation part was given in `Presentation.ppt` file
+  - Total Presentation part was given in `Presentation.ppt` file
   --------------
 ## Key findings
 
