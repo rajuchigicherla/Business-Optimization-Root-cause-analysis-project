@@ -13,7 +13,7 @@
  ### Step 2. Feature engineering & Feature selection of the data
  ### Step 3. Analysis of the data
  ### Step 4. Visualization of the data 
- ### Step 5. Presentation to stakeholders
+
  -----------
  
  ## Step 1. Description of the data
