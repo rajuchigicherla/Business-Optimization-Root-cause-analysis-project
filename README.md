@@ -8,7 +8,7 @@
  As a strategic move, the managing director of  ATLIQ Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue.You are a data analyst who has been provided with required data.So do the analysis and provide an insightful amazing dashboard to the stakeholders.
 
  # Solution steps
- ###### Cleaning and analysis was done using `SQL Server`, visualization using `Power BI`  and finally made a presentation using `Powerpoint` 
+ ###### Cleaning and analysis was done using `SQL Server`, visualization using `Power BI`  
  ### Step 1. Description of the data
  ### Step 2. Feature engineering & Feature selection of the data
  ### Step 3. Analysis of the data
