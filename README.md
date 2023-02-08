@@ -10,7 +10,7 @@
  # Solution steps
  ###### Cleaning and analysis was done using `SQL Server`, visualization using `Power BI`  
  ### Step 1. Description of the data
- ### Step 2. Feature engineering & Feature selection of the data
+ ### Step 2. Cleaning of the data
  ### Step 3. Analysis of the data
  ### Step 4. Visualization of the data 
 
@@ -25,7 +25,7 @@
 -  `Fact_aggregated_bookings` contains `property_id`,`check_in_date`,`room_category`,`successful_bookings`,`capacity`
 - `Fact_bookings ` contains `booking_id`,`property_id`,`booking_date`,`check_in_date`,`check_out_date`,`no_guests`,`room_category`,`booking_platform`,`ratings_given`,`booking_status`,`revenue_generated`,`revenue_realized`
  --------------
- ## Step 2.Feature engineering & Feature selection of the data
+ ## Step 2.Cleaning of the data
  
  - After understanding the data we noticed that all `date formats ` are not in regular format and `ratings given` has more than 50% are nulls
  - Now date format updated from `2022-05-04 00:00:00.0000000` to `2022-05-04`
