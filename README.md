@@ -54,7 +54,8 @@
 - Among all properties` Atliq exotica`  generates `highest revenue` of `320M `whereas `Atliq seasons` generates `least revenue` of `66M`
 - Week `21,23,26,30` has considerable `drop in revenue`  and in week 32 revenue dropped drastically.
 - Overall `occupancy` stands at `58%` So, in order to increase the increase the revenue management should focus on increasing the occupancy rate across the hotels
-- Total bookings are 135k out of all bookings 33K got cancelled ,so managementhas to take measures on to reduce the cancellations
-- `Delhi` has `highest rating` `3.78` and `highest occupancy` `60.55%` but it is generating `least revenue` `295M`. 
--Overall `average daily revenue(ADR)` is `12.7k`. ADR is nothing but `average revenue generating by each room` higher the ADR higher the revenue generated so management has to focus on ways to boost the ADR in order to incerase the overall revenue
+- `Total bookings` are `135k` out of all bookings `33K` got` cancelled` ,so managementhas to take measures on to reduce the cancellations.
+- `Delhi` has `highest rating` `3.78` and `highest occupancy` `60.55%` but it is generating `least revenue` `295M`.
+ 
+- Overall `average daily revenue(ADR)` is `12.7k`. ADR is nothing but `average revenue generating by each room` higher the ADR higher the revenue generated so management has to focus on ways to boost the ADR in order to incerase the overall revenue
 - Overall `revenue per available room(RevPAR)` is `7.3K`.RevPAR is a `hospitallity industry performance measure` it `reflects the ability of a property to fill the available rooms at an average rate `
