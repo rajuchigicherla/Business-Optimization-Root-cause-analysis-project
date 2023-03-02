@@ -1,7 +1,7 @@
 # ATLIQ-Grands-project
 
 ## Problem
-
+As part of the codebasics september month resume challenge, I have worked on this analysis project.
  `ATLIQ Grands` owns multiple five-star hotels across India. They have been in the `hospitality industry` for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management,  ATLIQ Grands are `losing its market share and revenue` in the luxury/business hotels category. As a strategic move, the managing director of  ATLIQ Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue.
  
  ## Task
@@ -38,8 +38,10 @@
    --------------
  
  ## Step 4. Visualization of the data
- 
- - Visit [here](https://app.powerbi.com/links/007fPQ3R2D?ctid=0c167956-3359-4be3-b187-477bb0785442&pbi_source=linkShare)
+ #### Dashboard
+ ![Screenshot (20)](https://user-images.githubusercontent.com/118670053/222340328-c531784e-400a-4ccb-918b-e18afdcc22dd.png)
+
+
   --------------
   
   
