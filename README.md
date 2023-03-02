@@ -8,7 +8,7 @@ As part of the codebasics september month resume challenge, I have worked on thi
  As a strategic move, the managing director of  ATLIQ Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue.You are a data analyst who has been provided with required data.So do the analysis and provide an insightful amazing dashboard to the stakeholders.
 
  # Solution steps
- ###### Cleaning and analysis was done using `SQL Server`, visualization using `Power BI`  
+  
  ### Step 1. Description of the data
  ### Step 2. Cleaning of the data
  ### Step 3. Analysis of the data
@@ -34,19 +34,13 @@ As part of the codebasics september month resume challenge, I have worked on thi
  
   ## Step 3. Analysis of the data
   
-  - Total analysis part was given in `ATLIQ Grands project analysis.sql` file
+  - Analysis was done using SQL and was given in `ATLIQ Grands project analysis.sql` file
    --------------
  
  ## Step 4. Visualization of the data
- #### Dashboard
+ #### Power BI Dashboard
  ![Screenshot (20)](https://user-images.githubusercontent.com/118670053/222340328-c531784e-400a-4ccb-918b-e18afdcc22dd.png)
-
-
-  --------------
-  
-  
-  
-  
+--------------
 ## Key findings & Recomedations
 
 - Out of the total generated revenue of `2008M`, almost `200M` revenue is `lost through cancellations`.
